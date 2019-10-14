@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">deska</string>
+    <string name="kerja">Bekerja di PT ABC</string>
+    <string name="smp">SMP Negeri 1 Tutur</string>
+    <string name="sma">SMA Negeri PURWOSARI</string>
+    <string name="pt">Pergguruan Tinggi ITN MALANG</string>
+    <string name="alamat">Kabupaten Pasuruan</string>
+</resources>
