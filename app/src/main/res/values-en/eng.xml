@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">deska</string>
+    <string name="kerja">Working at PT ABC</string>
+    <string name="smp">1 Tutur Junior high school</string>
+    <string name="sma">PURWOSARI Senior High School</string>
+    <string name="pt">National Institute of Technology MALANG</string>
+    <string name="alamat">Pasuruan District</string>
+    <string name="informasi">Information</string>
+    <string name="lihat">See</string>
+    <string name="lainnya">More</string>
+    <string name="pengaturan">Setting</string>
+</resources>

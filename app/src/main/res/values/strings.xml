@@ -5,4 +5,8 @@
     <string name="sma">SMA Negeri PURWOSARI</string>
     <string name="pt">Pergguruan Tinggi ITN MALANG</string>
     <string name="alamat">Kabupaten Pasuruan</string>
+    <string name="informasi">Informasi</string>
+    <string name="lihat">Lihat</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="pengaturan">Pengaturan</string>
 </resources>
